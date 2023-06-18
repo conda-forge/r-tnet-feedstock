@@ -1,11 +1,11 @@
-About r-tnet
-============
+About r-tnet-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tnet-feedstock/blob/main/LICENSE.txt)
 
 Home: http://toreopsahl.com/tnet/
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tnet-feedstock/blob/main/LICENSE.txt)
 
 Summary: Binary ties limit the richness of network analyses as relations are unique. The two-mode structure contains a number of features lost when projection it to a one-mode network. Longitudinal datasets allow for an understanding of the causal relationship among ties, which is not the case in cross-sectional datasets as ties are dependent upon each other.
 
